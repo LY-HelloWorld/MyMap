@@ -1,9 +1,9 @@
 package com.ly.mymap;
 
+import android.app.Activity;
 import android.os.Bundle;
-import com.google.android.maps.MapActivity;
 
-public class MainActivity extends MapActivity {
+public class MainActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
